@@ -9,6 +9,7 @@ class Mining extends Component {
         <div className="category">
           <p className="heading">Mining Pools</p>
 	  <a target="_blank" href="https://pool.havenprotocol.com/"><b>pool.havenprotocol.com</b></a>
+	  <a target="_blank" href="https://walpool.com/xhv"><b>walpool.com</b></a>
 	  <a target="_blank" href="http://cryptoknight.cc/haven/">cryptoknight.cc</a>
           <a target="_blank" href="http://pool.mineallcrypto.com/pool/?symbol=XHV">mineAllCrypto.com</a>
           <a target="_blank" href="https://xhv.luckypool.io/">luckypool.io</a>
